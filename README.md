@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MadinaKhurova
-- 👀 I’m interested in COMPUTER SCIENCE
-- 🌱 I’m currently learning C PROGRAM
+- 👀 I’m COMPUTER SCIENCE student
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me madina.khurova.tech@gmail.com
 
 <!---
 MadinaKhurova/MadinaKhurova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
